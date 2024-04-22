@@ -1,0 +1,16 @@
+{
+  "nodeserver": {
+    "source": 5174,
+    "target": 5173,
+    "key": "localhost-key.pem",
+    "cert": "localhost.pem",
+    "hostname": "localhost"
+  },
+  "apiserver": {
+    "source": 9001,
+    "target": 9000,
+    "key": "localhost-key.pem",
+    "cert": "localhost.pem",
+    "hostname": "localhost"
+  }
+}
